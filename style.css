@@ -1,0 +1,9 @@
+@import url('http://fonts.cdnfonts.com/css/papyrus');
+
+span {
+  font-size: 50px;
+  font-weight: bold;
+  line-height: 200px;
+  letter-spacing: 5px;
+  font-family: "papyrus";
+}
